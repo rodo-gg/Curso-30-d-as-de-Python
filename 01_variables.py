@@ -21,7 +21,7 @@ print("Esto es una variasble:",my_bool_variable)
 #Algunas funciones del sistema 
 print(len(my_first_variable))
 
-name, surname, alias, age = "Rodolfo", "Vergara", "Mancora", 23
+name, surname, alias, age = "alberto", "style", "Mancora", 23
 
 print("Mi nombre es:",name,"y mi apellido es:",surname, 'y mi edad es:',age) 
 
